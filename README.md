@@ -4,11 +4,8 @@ Flat widget tree
 
 ## Getting Started
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+![Classic widget tree look](docs/classic.png)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![Flat tree code look](docs/flat_tree.png)
+
+![Example screenshot](docs/example.png)

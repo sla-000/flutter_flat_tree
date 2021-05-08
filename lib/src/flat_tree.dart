@@ -1,7 +1,9 @@
 import 'package:flutter/widgets.dart';
 
+/// Builder function
 typedef BuildFunction = Widget Function(BuildContext context, Widget child);
 
+/// Widget for representing widget tree as simple short list
 class FlatTree extends StatelessWidget {
   const FlatTree({
     Key? key,
@@ -10,8 +12,15 @@ class FlatTree extends StatelessWidget {
     this.child,
   }) : super(key: key);
 
+  /// List of children in tree
   final List<BuildFunction> children;
+
+  /// Last child
   final Widget? child;
+
+  /// Pass context using Builder widget
+  ///
+  /// Increases widget tree depth so disabled by default
   final bool passContext;
 
   @override
