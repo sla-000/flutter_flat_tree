@@ -2,7 +2,7 @@
 
 Flat widget tree
 
-# Purpose
+## Purpose
 
 Usually Flutter widgets tree code looks somewhere like this:
 
@@ -17,7 +17,7 @@ This package can do it in some cases. Take a look:
 
 Tree hierarchy was reduced to simple list.
 
-# Example
+## Example
 
 Please check example and learn how to use widget:
 
