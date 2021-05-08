@@ -1,7 +1,7 @@
 name: flat_tree
 description: Flat widget tree
 version: 1.0.0
-homepage:
+homepage: https://github.com/sla-000/flutter_flat_tree
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
