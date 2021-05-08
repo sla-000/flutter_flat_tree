@@ -6,14 +6,14 @@ Flat widget tree
 
 Usually Flutter widgets tree code looks somewhere like this:
 
-<img src="docs/classic.png" width="500" />
+<img src="doc/classic.png" width="500" />
 
 A number of indents and a long list of closing "),),),"
 
 My main purpose was to decrease code size and add code readability.
 This package can do it in some cases. Take a look:
 
-<img src="docs/flat_tree.png" width="600" />
+<img src="doc/flat_tree.png" width="600" />
 
 Tree hierarchy was reduced to simple list.
 
@@ -21,4 +21,4 @@ Tree hierarchy was reduced to simple list.
 
 Please check example and learn how to use widget:
 
-<img src="docs/example.png" width="300" />
+<img src="doc/example.png" width="300" />
