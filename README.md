@@ -6,7 +6,7 @@ Flat widget tree
 
 Usually Flutter widgets tree code looks like this:
 
-![Classic widget tree look](docs/classic.png){width=400px}
+<img src="docs/classic.png" width="400" />
 
 My main purpose was to decrease code size and increase code readability.
 This package can do it in some cases. Take a look:
