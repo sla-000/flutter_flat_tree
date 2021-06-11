@@ -1,6 +1,6 @@
 name: flat_tree
 description: Flat widget tree
-version: 1.0.3
+version: 1.0.4
 homepage: https://github.com/sla-000/flutter_flat_tree
 
 environment:
@@ -14,5 +14,3 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
-flutter:
