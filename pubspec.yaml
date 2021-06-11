@@ -1,6 +1,6 @@
 name: flat_tree
 description: Flat widget tree
-version: 1.0.2
+version: 1.0.3
 homepage: https://github.com/sla-000/flutter_flat_tree
 
 environment:
